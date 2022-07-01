@@ -1,0 +1,10 @@
+body{
+    padding: 2em;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: red;
+}
+.wrapper{
+   width: 1080px; 
+   margin: 0 auto;
+}
